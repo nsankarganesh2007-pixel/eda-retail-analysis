@@ -1,0 +1,8 @@
+EDA SUMMARY
+Input rows: 120
+Rows after cleaning: 117
+Duplicate order IDs removed: 2
+Highest-sales month: 2025-11
+Highest-sales category: Electronics
+Discount comparison p-value: 0.2694
+High-sales outlier count (1.5 times IQR): 9
